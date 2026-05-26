@@ -58,7 +58,6 @@ Experienced in building modern applications using **React, Next.js, Node.js, Fas
 ![Jira](https://img.shields.io/badge/Jira-black?style=for-the-badge&logo=jira)
 
 ---
----
 
 ## 💡 GitHub Stats
 
